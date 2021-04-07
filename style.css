@@ -15,7 +15,6 @@ body {
 
 }
 .ssilki{
-    visibility: hidden;
     font-size: 40px;
     text-align: center;
     position: absolute;
@@ -23,10 +22,6 @@ body {
     left:50%;
     transform: translate(-50%, -50%) ;
     width: 100%;
-    animation-name: ssilkianim;
-    animation-duration: 2s;
-    animation-delay: 3s;
-    animation-fill-mode: forwards;
 
 }
 .ssilki a{
